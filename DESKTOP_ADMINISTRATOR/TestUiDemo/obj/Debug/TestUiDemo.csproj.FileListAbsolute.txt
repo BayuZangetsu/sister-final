@@ -1,0 +1,39 @@
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\bin\Debug\TestUiDemo.exe.config
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\bin\Debug\TestUiDemo.exe
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\bin\Debug\TestUiDemo.pdb
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.csprojResolveAssemblyReference.cache
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.Form1.resources
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.Properties.Resources.resources
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.UCHome.resources
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.UCNext.resources
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.csproj.GenerateResource.Cache
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.exe
+C:\Users\Imagine Cup Team A\source\repos\TestUiDemo\TestUiDemo\obj\Debug\TestUiDemo.pdb
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.exe.config
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.exe
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.pdb
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.UI.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TelerikCommon.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.UI.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.Form1.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.Kelola.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.Properties.Resources.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCCek.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCHome.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCValidasi.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCRegistrasi.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.csproj.GenerateResource.Cache
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.exe.licenses
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.exe
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.pdb

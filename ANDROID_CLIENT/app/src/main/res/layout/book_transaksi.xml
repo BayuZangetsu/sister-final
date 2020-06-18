@@ -1,0 +1,61 @@
+<LinearLayout
+    android:id="@+id/lay2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:orientation="vertical"
+    android:outlineAmbientShadowColor="@color/colorPrimaryDark"
+    android:visibility="visible"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID CUSTOMER"/>
+    <EditText
+        android:padding="10dp"
+        android:id="@+id/idcustnya"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keberangkatan Dari"
+        android:textColor="#000" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PURWOKERTO"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:text="Pilih Tujuan Keberangkatan" />
+
+    <Spinner
+        android:id="@+id/spinnertujuan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/harga"/>
+    <Button
+        android:id="@+id/btnbook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:onClick="insertTrans"
+        android:text="BOOKING SEKARANG !" />
+</LinearLayout>

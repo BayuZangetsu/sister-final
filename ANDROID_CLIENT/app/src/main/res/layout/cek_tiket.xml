@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CEK STATUS TRANSAKSI"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#000"
+        android:background="@color/colorPrimary"
+        />
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="4">
+
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnCari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="pencarian"
+            android:text="Cari"
+            android:textColor="#000" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HASIL PENCARIAN"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textColor="#000"/>
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Nama Lengkap"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/hasilnama"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Jenis Kelamin"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/hasilsex"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Alamat"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/hasilalamat"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Tujuan"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/hasiltujuan"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Status Validasi"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/hasilstatus"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:id="@+id/displayTextHasil"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content" />-->
+        <TableLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"
+            android:weightSum="2"
+            android:id="@+id/TL1">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:outlineProvider="paddedBounds"
+                    android:text="INFORMASI" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:text="DATA ANDA" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="ID TRANSAKSI"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/idtrans"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="TANGGAL TRANSAKSI"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tgltrans"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="ID CUSTOMER"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/idcust"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="ID TIKET"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/idtiket"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="STATUS VALIDASI"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/statusvalidasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="DETAIL INFO"
+                android:padding="9dp"
+                android:gravity="center"/>
+        </TableLayout>
+        <TableLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"
+            android:weightSum="2"
+            android:id="@+id/TL2">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:outlineProvider="paddedBounds"
+                    android:text="NIK KTP"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/nikktp"
+                    android:layout_width="match_parent"
+                    android:padding="5dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="NAMA"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/namacust"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="JENIS KELAMIN"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/sex"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="ALAMAT"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/alamatcust"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="TUJUAN"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tujuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:padding="5dp"
+                    android:text="HARGA"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/hargatiket"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAlignment="center"
+                    android:textStyle="italic" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+    </LinearLayout>

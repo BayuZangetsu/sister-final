@@ -1,0 +1,39 @@
+body {
+    background-color: #201f1f;
+    color: #ffffff;
+}
+
+.apa{
+    border: 0px solid #fff;
+	padding: 25px 30px;
+	margin-top: 0vh;
+	-webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+.jarak{
+    margin-bottom: 20px;
+}
+
+.kotak{
+    align-content: center;
+    color: #000000;
+}
+
+.jrk{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.badge{
+    margin-left: 4px;
+}
+.hitam{
+    color:#000000;
+}
+.pos{
+    text-align: center;
+    color: #fff;
+    font: bold;
+}

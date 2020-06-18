@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PURWOKERTO TRAINS"
+            android:textSize="50dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:gravity="center_horizontal"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mobile Apps"
+            android:textSize="25dp"
+            android:gravity="center"
+            android:textColor="@color/colorAccent"/>
+        <LinearLayout
+            android:layout_marginTop="15pt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:id="@+id/daftar"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Booking Tiket"
+                android:onClick="kebooking"
+                android:layout_gravity="center"
+                android:padding="9pt"/>
+            <Button
+                android:id="@+id/cek"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cek Transaksi"
+                android:onClick="keCekTr"
+                android:layout_gravity="center"
+                android:padding="9pt"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

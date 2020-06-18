@@ -1,0 +1,91 @@
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.exe.config
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.exe
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TestUiDemo.pdb
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.UI.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TelerikCommon.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TelerikData.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Telerik.WinControls.UI.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\TelerikData.xml
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.Form1.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.FormLogin.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCKelola.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.Properties.Resources.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCCek.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCHome.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCValidasi.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.UCRegistrasi.resources
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\Server Ticket Control.csproj.GenerateResource.Cache
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.exe.licenses
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.exe
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\obj\Debug\TestUiDemo.pdb
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MySql.Data.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Compressed\DisplayUserControlFromAnotherUC-master\TestUiDemo\bin\Debug\MySql.Data.xml
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.FormUtama.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.FormLogin.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCKelolaTransaksi.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCDaftarAdmin.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCKelola.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.Properties.Resources.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCCek.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCHome.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCRegistrasi.resources
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.UCValidasi.resources
+F:\project Tiket\TestUiDemo\obj\Debug\Server Ticket Control.csproj.GenerateResource.Cache
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.exe.licenses
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.exe
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.pdb
+F:\project Tiket\TestUiDemo\bin\Debug\TestUiDemo.exe.config
+F:\project Tiket\TestUiDemo\bin\Debug\TestUiDemo.exe.manifest
+F:\project Tiket\TestUiDemo\bin\Debug\TestUiDemo.application
+F:\project Tiket\TestUiDemo\bin\Debug\TestUiDemo.exe
+F:\project Tiket\TestUiDemo\bin\Debug\TestUiDemo.pdb
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.Platform.Core.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.Platform.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Json.dll
+F:\project Tiket\TestUiDemo\bin\Debug\JsonPath.dll
+F:\project Tiket\TestUiDemo\bin\Debug\MahApps.Metro.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Metro.Dialogs.dll
+F:\project Tiket\TestUiDemo\bin\Debug\MetroFramework.Design.dll
+F:\project Tiket\TestUiDemo\bin\Debug\MetroFramework.dll
+F:\project Tiket\TestUiDemo\bin\Debug\MetroFramework.Fonts.dll
+F:\project Tiket\TestUiDemo\bin\Debug\MySql.Data.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Newtonsoft.Json.dll
+F:\project Tiket\TestUiDemo\bin\Debug\RestSharp.dll
+F:\project Tiket\TestUiDemo\bin\Debug\System.Windows.Interactivity.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Google.Protobuf.dll
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.xml
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.Platform.xml
+F:\project Tiket\TestUiDemo\bin\Debug\Caliburn.Micro.Platform.Core.xml
+F:\project Tiket\TestUiDemo\bin\Debug\Json.pdb
+F:\project Tiket\TestUiDemo\bin\Debug\MahApps.Metro.pdb
+F:\project Tiket\TestUiDemo\bin\Debug\MahApps.Metro.xml
+F:\project Tiket\TestUiDemo\bin\Debug\MySql.Data.xml
+F:\project Tiket\TestUiDemo\bin\Debug\Newtonsoft.Json.xml
+F:\project Tiket\TestUiDemo\bin\Debug\RestSharp.xml
+F:\project Tiket\TestUiDemo\obj\Debug\Server Ticket Control.csprojAssemblyReference.cache
+F:\project Tiket\TestUiDemo\obj\Debug\Server Ticket Control.csproj.CoreCompileInputs.cache
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.exe.manifest
+F:\project Tiket\TestUiDemo\obj\Debug\TestUiDemo.application
+F:\project Tiket\TestUiDemo\obj\Debug\Server Ticket Control.csproj.CopyComplete
